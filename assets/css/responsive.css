@@ -126,6 +126,9 @@
     font-size: 48px;
     line-height: 1.5;
   }
+  .cursor {
+    height: 37px;
+  }
   .banner_img {
     max-width: 700px;
   }
@@ -308,6 +311,9 @@
   }
   .banner_content .typewriter {
     font-size: 36px;
+  }
+  .cursor {
+    height: 30px;
   }
   .top_shape_bg:before {
     display: none;
